@@ -7,7 +7,7 @@ layout: page
 
 <img src = "{{ site.url }}/assets/images/profile.jpeg">
 
-<p align="justify">My name is <strong>Aman Kumar</strong> and I am a <strong>Computer Science</strong> Student at Vellore Institute of Technology . Presently i am in my final year of graduation and waiting to get placed in a decent company. I am mostly interested in <strong><i>Web development</i></strong> , i like it the most , then comes <strong><i>economics and finance</i></strong> though i am pursuing a B.Tech degree , i have a keen interest for these topics . </p>
+<p align="justify">My name is <strong>Aprajita Srivastava</strong> and I am a <strong>Computer Science</strong> Student at Vellore Institute of Technology . Presently i am in my final year of graduation and waiting to get placed in a decent company. I am mostly interested in <strong><i>Web development</i></strong> , i like it the most , then comes <strong><i>economics and finance</i></strong> though i am pursuing a B.Tech degree , i have a keen interest for these topics . </p>
 
 
 <center>
