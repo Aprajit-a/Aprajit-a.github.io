@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "Hosting a website on github"
-date: 2019-6-20 02:16
-description: How to host a website on github.
+title: "How to be AWSeome like me"
+date: 2022-11-13 00:00
+description: This post will tell you about how awesome I am and how beautiful my life is.
 image: /assets/images/CSE.png # Add image post (optional)
 headerImage: false
 tags:
-- Github
-- Hosting
-- Open Source
+- Travel
+- Work
+- Delhi
 author: Aman
-category: blog
+category: Personal Post
 projects: true
 ---
 
-T

@@ -1,9 +1,9 @@
 # main text of home
 name: Aprajita Srivastava
-bio: CS Undergrad , VIT Vellore
+bio: Cloud Support Engineer, AWS
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about travel, technology and me
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,19 +30,19 @@ analytics-google: 'UA-143892272-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: a4amann-github-io # enter this from your disqus account
+  shortname: aprajita # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: a4amann
+facebook: aprajita.srivastava.925
 #twitter: mytwitter
 # google: mygoogle
-instagram: a4amann_
+instagram: aprajita4
 # pinterest: mypinterest
-linkedin: aman-kumar-b0523312a
+linkedin: aprajita-srivastava-WDF
 # youtube: myyoutube
 # spotify: myspotify
-github: a4amann
+github: aprajit-a
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,15 +51,15 @@ github: a4amann
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: a4amann@gmail.com
+email: saprajita1311@gmail.com
 
 authors:
     Aman:
-        name: Aman Kumar
-        bio: Computer Science Undergrad
+        name: Aprajita Srivastava
+        bio: Cloud Support Engineer, AWS
         external-image: false
         picture: assets/images/mainprofile.jpeg
-        github: a4amann
+        github: aprajit-a
     #jamesfoster:
     #    name: James Foster
      #   bio: A Man who develops software with coffee

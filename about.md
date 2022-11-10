@@ -7,7 +7,7 @@ layout: page
 
 <img src = "{{ site.url }}/assets/images/profile.jpeg">
 
-<p align="justify">My name is <strong>Aprajita Srivastava</strong> and I am a <strong>Computer Science</strong> Student at Vellore Institute of Technology . Presently i am in my final year of graduation and waiting to get placed in a decent company. I am mostly interested in <strong><i>Web development</i></strong> , i like it the most , then comes <strong><i>economics and finance</i></strong> though i am pursuing a B.Tech degree , i have a keen interest for these topics . </p>
+<p align="justify">My name is <strong>Aprajita Srivastava</strong> and I am a <strong>Cloud Support Engineer/strong> at Amazon Web Services (AWS). It has been 1 year and 6 month since I joined Amazon and it's just as amazin as I am. The work life balance along with the salary is good enough to make me smile and glee. Though this pandemic halted my travel journey, I am still visiting places to keep up with my travel diary. </p>
 
 
 <center>
@@ -15,7 +15,7 @@ layout: page
 </center>
 
 <p align="justify">
-Books are something which i love a lot now. And i am using the word <strong>love</strong> not <strong>like</strong> . To be honest i started reading just to impress my classmates that like them even i read alot . I was always fond of stories but reading thick books was never my cup of tea . But a 16 year old teenager wants to be the centre of attention . But at that time i never knew i would fall for books like this . From reading a small *Champak* book in a week to completing a book trilogy in 3 days ( <i>meluha trilogy</i> ) showed the increase of my interest and my reading speed .
+Recently I went to <strong> Bali </strong> and I had an amazing time there. My trip companions are mostly my parents and every place that I visit with them is special.
 
 I have a kindle now but i still love to buy  paperbacks as the smell of a fresh new book still makes me happy . Mythology mixed with thriller is my favourite genre and dan brown , ashwin sanghi and amish tripathi are my favourite writers . I have almost read all the books written by them and of many other writters too , currently my library consists of 64 books . And i hope to increase it to more than thousand.  I always try to read a book or two in a month . I have written few poetrys too which you can read in the blog section . 
 </p>
