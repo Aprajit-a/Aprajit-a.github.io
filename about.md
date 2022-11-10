@@ -11,42 +11,29 @@ layout: page
 
 
 <center>
-<img src="{{site.url}}/assets/images/kindle.jpeg">
+<img src="{{site.url}}/assets/images/bali.jpeg">
 </center>
 
 <p align="justify">
-Recently I went to <strong> Bali </strong> and I had an amazing time there. My trip companions are mostly my parents and every place that I visit with them is special.
+Recently I went to <strong> Bali </strong> and I had an amazing time there. My trip companions are mostly my parents and every place that I visit with them is special. 
 
-I have a kindle now but i still love to buy  paperbacks as the smell of a fresh new book still makes me happy . Mythology mixed with thriller is my favourite genre and dan brown , ashwin sanghi and amish tripathi are my favourite writers . I have almost read all the books written by them and of many other writters too , currently my library consists of 64 books . And i hope to increase it to more than thousand.  I always try to read a book or two in a month . I have written few poetrys too which you can read in the blog section . 
 </p>
 
-<p align="justify">Music has always been a mood lifter for me . I find solace in music . To listening songs of Md Rafi and kishore kumar in my mother's cassette player to listening arijit singh on online players. The medium , the tunes and the quality of lyrics have changed alot but my taste remains same .Soft melody with a meaningful lyrics is what i look for . I call these songs as soul soothers.  
-Mostly i listen to bollywood songs , as bollywood has a song for every emotion (and literally for every word too) . Untill 2014 when i was in my class 10th , i think the only english songs i had ever listened to was <i>my heart will go on</i>from titanic and <i>waving flag</i> by k'naan . But thanks to my friends , those two are not the only ones i have listened till now . Coldplay , Imagine Dragons , linkinpark are the bands i like the most for english songs .
-Everyone loves to have a playlist from which they don't have to specially select a song and whatever songs come on you can enjoy it so me and my friend <strong>Shaswat</strong> created a playlist of as i say <strong>soul soothers</strong> . You can have a go at it from the link below -:
-<strong><i>https://www.jiosaavn.com/p/playlist/a0736f6f81779d16d53b67063b180bb9/my_fav/BAK,ItoC,U-uCJW60TJk1Q__</i></strong>
+<p align="justify">Music has always been a mood lifter for me. I find solace in music. The medium, the tunes and the quality of lyrics have changed a lot but my taste remains same. You may find it interesting but my love life started because of music. One fine day we were sharing the songs we love and that sharing became much more meaningful for him. It was <strong> Pretty woman </strong> from kal ho na ho that was dedicated to me on my birthday, after that it has been on hell of a ride.
+
+
 </p>
 
 
 # **Friends**
 
-<p align="justify">You'll be lying if you say , you don't need friends and you can manage everything by yourself. Because there will come a time you will need someone with you to hold your hand and take you out from the misery of life. There is a quote that friends are the family we choose and i find it apt. I have been blessed with a lot of great friends and i can proudly say i have learnt something from each of them. </p>
+<p align="justify">You'll be lying if you say , you don't need friends and you can manage everything by yourself. Because there will come a time you will need someone with you to hold your hand and take you out from the misery of life. There is a quote that friends are the family we choose and i find it apt. I have been blessed with a lot of great friends and i can proudly say i have learnt something from each of them. My friends from college helped me change my personality and become a better bold version of myself. TCS gave me the best lot I can ever ask for, They are not just my friends, They are my family. I enjoy every moment I am with them. AWS also gave me some good friends who made my work a little better and bearable. </p>
 
 <center>
-<img src="{{site.url}}/assets/images/friends1.jpeg">
-</center>
-<p align="justify">You need friends during school time and i was gifted with them . All of us live nearby and that made us board the same bus , and when you spend time with the same people all the time you are bound to become great friends . Though we have different streams , different ideologies and thoughts but we have one thing in common and that is crazy love for sports . </p>
-
-<center>
-<img src="{{site.url}}/assets/images/friends2.jpeg">
+<img src="{{site.url}}/assets/images/Friends.jpeg">
 </center>
 
-<p align="justify">How lucky you would feel if the friends you had in school are there with you even in college. I'll tell you, it is a great feeling because you never feel the odd one out in a strange place , you never have to adjust to the new conditions all by yourself. Plus the discussion of school stories in college makes the memory even more fun. </p>
-
-<center>
-<img src="{{site.url}}/assets/images/friends3.jpeg">
-</center>
-
-<p align="justify">But it's good to have some new friends too. You get to know about places you have never visited , Stories which you may have never heard and life lessons which would be useful for you. And your network increases too which is a pretty good thing to have in your college life . </p>
+<p align="justify">Just take a look, how happy I am in this photo. I am my true self when I am near my friends, I forget all the issues I have and I just surrender to a peaceful moment.</p>
 
 
 
