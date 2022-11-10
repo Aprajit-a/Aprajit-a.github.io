@@ -9,7 +9,7 @@ tags:
 - Travel
 - Work
 - Delhi
-author: Aman
+author: Aprajita
 category: Personal Post
 projects: true
 ---

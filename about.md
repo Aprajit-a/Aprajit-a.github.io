@@ -7,7 +7,7 @@ layout: page
 
 <img src = "{{ site.url }}/assets/images/profile.jpeg">
 
-<p align="justify">My name is <strong>Aprajita Srivastava</strong> and I am a <strong>Cloud Support Engineer/strong> at Amazon Web Services (AWS). It has been 1 year and 6 month since I joined Amazon and it's just as amazin as I am. The work life balance along with the salary is good enough to make me smile and glee. Though this pandemic halted my travel journey, I am still visiting places to keep up with my travel diary. </p>
+<p align="justify">My name is <strong>Aprajita Srivastava</strong> and I am a <strong>Cloud Support Engineer</strong> at Amazon Web Services (AWS). It has been 1 year and 6 month since I joined Amazon and it's just as amazing as I am. The work life balance along with the salary is good enough to make me smile and glee. Though this pandemic halted my travel journey, I am still visiting places to keep up with my travel diary. </p>
 
 
 <center>
@@ -16,12 +16,9 @@ layout: page
 
 <p align="justify">
 Recently I went to <strong> Bali </strong> and I had an amazing time there. My trip companions are mostly my parents and every place that I visit with them is special. 
-
 </p>
 
 <p align="justify">Music has always been a mood lifter for me. I find solace in music. The medium, the tunes and the quality of lyrics have changed a lot but my taste remains same. You may find it interesting but my love life started because of music. One fine day we were sharing the songs we love and that sharing became much more meaningful for him. It was <strong> Pretty woman </strong> from kal ho na ho that was dedicated to me on my birthday, after that it has been on hell of a ride.
-
-
 </p>
 
 
